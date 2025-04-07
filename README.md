@@ -10,7 +10,7 @@ This repository contains a python project from my previous coursework.
 
 ### Installing
 1. Clone the repository:
-https://github.com/your-username/python-assignment.git
+(https://github.com/Praga140298/python-assignment)
 
 2. Open the folder in your IDE.
 
